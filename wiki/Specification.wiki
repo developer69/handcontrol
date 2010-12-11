@@ -1,4 +1,5 @@
 #summary Špecifikácia projektu.
+#labels Phase-Design
 
 = Špecifikácia projektu =
 
