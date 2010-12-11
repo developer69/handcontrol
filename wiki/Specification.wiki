@@ -1,0 +1,17 @@
+#summary Špecifikácia projektu.
+
+= Špecifikácia projektu =
+
+== Cieľ ==
+
+Rozpoznávanie giest ruky pomocou webkamery a vzdialené ovládanie PC iba pomocou ruky.
+
+== Podrobnosti ==
+
+  # ~~Získanie obrazu z webkamery~~
+  # ~~Detekcia zmeny v obraze~~
+  # Detekcia ruky v obraze
+  # Detekcia pohybu ruky
+  # Analýza pohybu ruky a získanie gesta
+  # Optimalizácia
+  # Rozšírenie ponuky giest a definícia vlastných giest
